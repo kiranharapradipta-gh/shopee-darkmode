@@ -1,10 +1,10 @@
 (() => {
   const VERSION = "1.0.0";
   const CSS_URL = "https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark.css";
+  const TOGGLE_CSS_URL = "https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark-toggle-style.css"
 
   const STYLE_ID = "shopee-darkmode-by-kiran";
   const TOGGLE_ID = "shopee-dark-toggle";
-  const STORAGE_KEY = "shopee-darkmode-enabled";
 
   let STYLE, TOGGLE, TOGGLE_STYLE
 
@@ -29,11 +29,20 @@
     document.head.appendChild(STYLE);
   };
 
-  const createToggleStyle = () => {
-    const ts = document.createElement('link')
+  const createToggleStyle = async () => {
+    const ts = document.createElement('style')
 
     ts.id = 'shopee-darkmode-toggle-by-kiran'
-    ts.href = 'https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark-toggle-style.css'
+    
+    const response = await fetch(TOGGLE_CSS_URL)
+
+    if (!response.ok) {
+      throw new Error(`TOGGLE CSS gagal dimuat: HTTP ${response.status}`);
+    }
+
+    const css = await response.text();
+
+    ts.textContent = css
 
     document.head.appendChild(ts)
   }
