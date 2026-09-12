@@ -1,120 +1,220 @@
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div.header-with-search__search-section > form > div > div,
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div.header-with-search__search-section > form > div > div > input,
-#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2) > div > div > div > div.Yd9qk2,
-#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2) > div > div > div,
-#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2) > div > div > div > div > a > div,
-#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2),
-#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__section-list > div > div > div.official-shop-brand-list__section-content > div > a > div.G3N4MK.full-brand-list-item__cover-image-wrapper > div,
-#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__alphabet-bar-wrapper > div,
-#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__head > ul,
-#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__head > div,
-#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__alphabet-bar-wrapper,
-#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__section-list > div,
-#main > div > div.t5pFIU > div > div > div > div > div.container.cKV3cM > div.u0v0QW > section > fieldset > div.shopee-sort-by-options > section:nth-child(2) > div > button,
-#main > div > div.t5pFIU > div > div > div > div > div.container.cKV3cM > div.u0v0QW > section > fieldset > div.shopee-sort-by-options > section.shopee-sort-by-options__option-group > button,
-#main > div > div.t5pFIU > div > div > div > div > div.container.cKV3cM > div.u0v0QW > section > ul > li > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between, #main > div > div.t5pFIU > div > div > div > div > div.container.AMBLCZ > div > div.ofs-carousel__items > div > div.image-carousel__item-list-wrapper > ul > li > div > div:nth-child(1) > a > div > div,
-#main > div > div.t5pFIU > div > div > div > div > div.container.AMBLCZ > div > div.ofs-carousel__items > div > div.image-carousel__item-list-wrapper > ul > li > div > div > a > div > div,
-#main > div > div.t5pFIU > div > div > div > div > div.container.AMBLCZ > div > div.ofs-carousel__header,
-#shopee-mini-chat-embedded > div > div,
-#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.MJ6lWTAl4K > div.shopee-react-input.u9tzsXCLU7 > div,
-#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.MJ6lWTAl4K,
-#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.C8Jzw7jkTU > div,
-#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.gmoSCTmKOF > div > div,
-#shopee-mini-chat-embedded > div > div.KcnW0EWoNR,
-#main > div > div.t5pFIU > div > div > div > div:nth-child(4) > main > section:nth-child(7) > section > div > div.bbBzgE,
-#main > div > div.t5pFIU > div > div > div > div:nth-child(5) > div > div > div.L6zW27.row > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
-#main > div > div.t5pFIU > div > div > div > div:nth-child(4) > section,
-#main > div > div.t5pFIU > div > div > div > div:nth-child(4) > main > section,
-#main > div > div.t5pFIU > div > div > div > div.container > main > section > section > div,
-#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.xFpWu9,
-#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.oZlfIk,
-#main > div > div.t5pFIU > div > div > div > div.container > main > div,
-#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div > input,
-#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div,
+/* 
+  border  : #3d444d
+  bg1     : #010409
+  bg2     : #0d1117
+  bg3     : #241c2e
+  text1   : #f0f6fc
+  text2   : #9198a1
+*/
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.shopee-header-section.shopee-header-section--simple > div.shopee-header-section__header,
+#main > div > div.t5pFIU > div,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.C8Jzw7jkTU > div
+{
+  background-color: #010409;
+}
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div > div > section > div > div > div.oIgmN9 > div > table > thead > tr > th,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div > div > section > div > div > div.oIgmN9 > div > table > tbody > tr > td,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.v-center > a,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.L6zW27.row > div > div > div > a > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.image-carousel.yNT8k4 > div.image-carousel__item-list-wrapper > ul > li > div > div > div > div > a > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section.flex.items-center.dPpMsC > div > div > div > input,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.m_GUHE > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section.flex.items-center.dPpMsC > div > div > div > button,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div,
+#main > div > div.t5pFIU > div > div > div > div > main > section,
 #main > div > div.t5pFIU > div > div > div > section,
+#main > div > div.t5pFIU > div > div > div > div.container > main > div,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > section > div,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.ZSfu2y,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.oZlfIk,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.xFpWu9,
+#main > div > div.t5pFIU > div > div > div > div > section,
+#main > div > div.t5pFIU > div > div > div > div > div > div > div.L6zW27.row > div > div > div > a > div > div,
+#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div,
+#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div > input,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.MJ6lWTAl4K,
+#shopee-mini-chat-embedded > div > div.KcnW0EWoNR,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.gmoSCTmKOF > div > div,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.MJ6lWTAl4K > div.shopee-react-input.u9tzsXCLU7 > div,
 #main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form,
 #main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div,
 #main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input,
-#main > div > div.t5pFIU > div > div > div > div.ppnvLr,
-#HomePageSquareBannerSection > div,
-#main > div > div.t5pFIU > div,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__header,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__content > div > div.image-carousel__item-list-wrapper > ul > li > a,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div.XOnodO,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div.image-carousel > div.image-carousel__item-list-wrapper > ul > li > div > div,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__header,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul > li > a,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > nav > ul > li,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div.Alb1Rz > a,
 #main > div > div.t5pFIU > footer,
-#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div._87kPP,
-#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div.URvGxz,
-#main > div > div.t5pFIU > div > div > div > div > div.bRu02W.row > div > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
-#shopee-searchbar-listbox > a,
-#main > div > div.t5pFIU > div > div > div > div > div > div.eZXujS > div > div > div.shopee-header-section__content > div > div.K4tJP4,
-#main > div > div.t5pFIU > div > div > div > div > div > div.eZXujS > div > div > div.shopee-header-section__content > div > ul > li > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
-#main > div > div.t5pFIU > div > div > div > div > div > div.eZXujS > section > ul > li > div > div > div > a.contents > div > div.p-2.flex-1.flex.flex-col.justify-between,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div,
 #sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div > div,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right,
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form,
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form > div,
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form > div > div > input,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div,
 #sll2-pdp-product-shop > section,
 #sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section,
 #sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > div > div > div,
 #sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > h2,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail > section > div > div > div > div > div,
 #sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div,
-#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(4) > div.L6zW27.row > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(3) > div > div > div.image-carousel.yNT8k4 > div.image-carousel__item-list-wrapper > ul > li > div > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(4) > div.v-center > a,
-#main > div > div.t5pFIU > footer > div.bE7OGq > div,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section:nth-child(1) > div > div > div.product-rating-overview,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section:nth-child(1) > div > div > div.product-rating-overview > div.product-rating-overview__filters > div,
-#modal > div.AbAiU9 > div.UCGJYT > div > div.o_Jpw2,
-#modal > div.AbAiU9 > div.UCGJYT > div > div.SnjdX2,
-#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section,
-#main > div > div.t5pFIU > div > div > div > div > div > div.shop-page > div > div.shop-page__info,
-#main > div > div.t5pFIU > div > div > div > div > div > div.shop-page > div > div.shop-page__info > div > div.section-seller-overview-horizontal__seller-info-list,
-#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div.shopee-searchbar-selector > button
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div.Alb1Rz > a,
+#main > div > div.t5pFIU > div > div > div > div > div.bRu02W.row > div > div > div > div > a > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ppnvLr,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div.XOnodO,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__header,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div.image-carousel > div.image-carousel__item-list-wrapper > ul > li > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul > li > a,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul > li,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > nav > ul > li,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div,
+#shopee-searchbar-listbox > a,
+#HomePageSquareBannerSection,
+#HomePageCarouselBannerSection,
+#HomePageSquareBannerSection > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__header,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__content > div > div.image-carousel__item-list-wrapper > ul > li > a > div
 {
-  background: rgb(40 37 42);
+  background-color: #0d1117;
 }
-#shopee-searchbar-listbox > a:hover
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail > section > div > div > div.A_vWx9 > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-rating-overview,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.bbBzgE
 {
-  background: rgb(45, 42, 47);
+  background-color: #241c2e;
 }
-#HomePageSquareBannerSection > div > a > div,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div > div,
-#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div:nth-child(4) > div > div > div.shopee-header-section__content > div > div > ul > li > a > div.ZYdV9e,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm > div.flex.justify-center.items-center > div.flex.items-center.ipd6HQ > button > div,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm > div.flex.justify-center.items-center > div.flex.items-center.hUt8dC > div,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
-#pc-drawer-id-1 > div > div,
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.v-center > a:hover,
+#shopee-searchbar-listbox > a:hover,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div.Alb1Rz > a:hover
+{
+  background-color: #1e222a;
+}
+
 #sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > button > div.FllsTu.JXtSdn.bv0Mz_
 {
-  color: black;
+  background-color: yellow;
 }
-#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input
+
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
+#main > div > div.t5pFIU > div > div > div > div > div > div > div.L6zW27.row > div > div > div > a > div,
+#shopee-mini-chat-embedded > div
 {
-  color: #555;
+  border: 1px solid #3d444d;
 }
-#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form > div > div > input::placeholder, #main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input::placeholder {
-  color: #555;
-  background: rgb(45, 42, 47);
-}
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > button > div.FllsTu,
-#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > div > div.Ocv3B8 > span
+
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__content > div > div.image-carousel__item-list-wrapper > ul > li > a
 {
-  background: yellow;
+  border: none;
+}
+
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.shopee-header-section.shopee-header-section--simple > div.shopee-header-section__header > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > div > div > div > a > div > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.L6zW27.row > div > div > div > a > div > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.L6zW27.row > div > div > div > a > div > div > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.image-carousel.yNT8k4 > div.image-carousel__item-list-wrapper > ul > li > div > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between > div.flex-shrink > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.image-carousel.yNT8k4 > div.image-carousel__item-list-wrapper > ul > li > div > div > div > div > a > div > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > div > div > div.A7MThp > div.meQyXP > div.YNedDV,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.shopee-header-section.xQhKzr.shopee-header-section--simple > div.shopee-header-section__header > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > div > div > div.A7MThp > div.meQyXP > div > div > span:nth-child(2),
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > div > div > div.A7MThp > div.d72He7 > a,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.kDKbhO > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm > div.flex.justify-center.items-center > div.flex.items-center.hUt8dC > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm > div.flex.justify-center.items-center > div.flex.items-center.ipd6HQ > button > div,
+#sll2-pdp-product-shop > section > div > div.vzwYi9 > div > div.KBEZs0,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail > section > h2,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail > section > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > section.AzJBIW.wC4xhr > div > div > div.jU82wn > div > span,
+#sll2-normal-pdp-main > div > div > div > div.container > div.flex.items-center.Wo06o3.page-product__breadcrumb > span,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.kG0FxG > h1,
+#main > div > div.t5pFIU > div > div > div > div > main > section > div.xFpWu9 > div > a > span,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div,
+#main > div > div.t5pFIU > footer > div.uGvjmv > div > div > div > section > h1,
+#main > div > div.t5pFIU > footer > div.uGvjmv > div > div > div > section > h2,
+#main > div > div.t5pFIU > footer > div.uGvjmv > div > div > div > section > p,
+#main > div > div.t5pFIU > footer > div > div > div.W4wsb0,
+#main > div > div.t5pFIU > footer > div > div > div.odeeVp > div > div > div.OgPQOK > a,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div._87kPP > div > div,
+#main > div > div.t5pFIU > div > div > div > div > section > div.FD1Hj1.Q55ES2 > div.ODp5dk,
+#main > div > div.t5pFIU > div > div > div > div > section > div.fLjPn8.q5Klkd,
+#main > div > div.t5pFIU > div > div > div > div > main > div > div.PHDMKK,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div > div.wcCJOj > div > div > a,
+#main > div > div.t5pFIU > div > div > div > div > main > section > div.ZSfu2y > div > div.fI8I1H,
+#main > div > div.t5pFIU > div > div > div > div > main > section > div.oZlfIk > div,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.wcCJOj > div > div > a,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.qj1C_w.oNMbCP > button,
+#shopee-searchbar-listbox > a,
+#main > div > div.t5pFIU > div > div > div > div > div.bRu02W.row > div > div > div > div > a > div > div > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div > div.bRu02W.row > div > div > div > div > a > div > div > div > div > div > div,
+#stardust-popover0 > div,
+#main > div > div.t5pFIU > div > div > div > div > div > div > div.L6zW27.row > div > div > div > a > div > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div > div > div > div.L6zW27.row > div > div > div > a > div > div > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div > div > div > div.shopee-header-section.shopee-header-section--simple > div.shopee-header-section__header > div > div,
+#main > div > div.t5pFIU > div > div > div > div > section > div.fLjPn8.q5Klkd > div.ciJliu > div.fZth1C > div > div.P9pzYz,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div.Alb1Rz > a,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div > div > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul > li > a > div.ZYdV9e,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__header > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__content > div > div.image-carousel__item-list-wrapper > ul > li > a > div > div.TokXbk > div,
+#HomePageSquareBannerSection > div > a > div
+{
+  color: #f0f6fc;
+}
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > div > div > div.A7MThp > div.d72He7 > div.j5ucs4 > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > button.q_jxOI,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > div > div > div.A7MThp > div.jpKEtU > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > div > div > div.A7MThp > div.meQyXP > div > div > span:nth-child(1),
+#sll2-pdp-product-shop > section > div > div.R4qgDs > a > label,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section.flex.items-center.dPpMsC > div > div > div > button,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section.flex.items-center.dPpMsC > div > div > div > input,
+#sll2-pdp-product-shop > section > div > div.vzwYi9 > div > div.xvreZD > div,
+#sll2-pdp-product-shop > section > div > div.R4qgDs > div > label,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail > section > div > div > h3,
+#pc-drawer-id-0 > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > button > div.FllsTu.JXtSdn.bv0Mz_,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div > div.product-ratings__list > nav > button,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div > div.iYnf_S > div > button > div.xUp8pD > div,
+#main > div > div.t5pFIU > div > div > div > div > section > div.dg0d8v._z3iSn.WO2BC7.lknNup > div.Oiz2t3,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.iYnf_S > div > button > div.xUp8pD,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.iYnf_S > div > button > div.FNhGRp,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.H2tUie > div > div,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.SDSVrG > div > button,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.SDSVrG > div > input,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div.mXMezP.WeyK0y > div > div.iYnf_S,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div > div.SDSVrG > div > button,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div > div.SDSVrG > div > input,
+#main > div > div.t5pFIU > div > div > div > div > section > div.dg0d8v._z3iSn.WO2BC7.lknNup > div.gzyn8l,
+#main > div > div.t5pFIU > div > div > div > div > main > section > section > div > div > div.iYnf_S > div > button,
+#main > div > div.t5pFIU > div > div > div > div > nav > button,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div._87kPP > div > ul > li > a > span,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div.URvGxz > div.hLS7q8 > div.whkXnv.fPod4n,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div.URvGxz > div.hLS7q8 > div > a,
+#main > div > div.t5pFIU > footer > div > div > div.odeeVp > div > div > div.D63j6g > div > a,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div.URvGxz > div.Pc3d01.fPod4n,
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input,
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input::placeholder,
+#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div.shopee-searchbar-input > input,
+#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div.shopee-searchbar-input > input::placeholder
+{
+  color: #9198a1;
+}
+
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button:hover,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div.URvGxz > div.hLS7q8 > div > a:hover,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div._87kPP > div > ul > li > a > span:hover,
+#main > div > div.t5pFIU > footer > div > div > div.odeeVp > div > div > div.D63j6g > div > a:hover
+{
+  color: red;
+}
+
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div.L6zW27.row,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(3) > div > div > div.shopee-header-section.xQhKzr.shopee-header-section--simple,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(3) > div > div
+{
+  background: none;
 }

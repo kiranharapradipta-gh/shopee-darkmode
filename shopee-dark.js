@@ -3,10 +3,14 @@
   const CSS_URL = "https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark.css";
   const TOGGLE_CSS_URL = "https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark-toggle-style.css"
 
+  // const CSS_URL = "http://localhost:8080/shopee-dark.css";
+  // const TOGGLE_CSS_URL = "http://localhost:8080/shopee-dark-toggle-style.css"
+
   const STYLE_ID = "shopee-darkmode-by-kiran";
   const TOGGLE_ID = "shopee-dark-toggle";
+  const TOGGLE_STYLE_ID = "shopee-darkmode-toggle-by-kiran";
 
-  let STYLE, TOGGLE, TOGGLE_STYLE
+  let STYLE, TOGGLE
 
   const loadCss = async () => {
     if (document.getElementById(STYLE_ID)) return;
@@ -30,21 +34,14 @@
   };
 
   const createToggleStyle = async () => {
-    const ts = document.createElement('style')
+    const toggleStyle = document.createElement('style')
 
-    ts.id = 'shopee-darkmode-toggle-by-kiran'
-    
-    const response = await fetch(TOGGLE_CSS_URL)
+    toggleStyle.id = TOGGLE_STYLE_ID
 
-    if (!response.ok) {
-      throw new Error(`TOGGLE CSS gagal dimuat: HTTP ${response.status}`);
-    }
-
-    const css = await response.text();
-
-    ts.textContent = css
-
-    document.head.appendChild(ts)
+    fetch(TOGGLE_CSS_URL).then(r => r.text()).then(css => {
+      toggleStyle.textContent = css
+      document.head.appendChild(toggleStyle)  
+    }).catch(e => console.log(e))
   }
 
   const createToggle = () => {
