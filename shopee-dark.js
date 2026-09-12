@@ -6,7 +6,7 @@
   const TOGGLE_ID = "shopee-dark-toggle";
   const STORAGE_KEY = "shopee-darkmode-enabled";
 
-  let STYLE
+  let STYLE, TOGGLE, TOGGLE_STYLE
 
   const loadCss = async () => {
     if (document.getElementById(STYLE_ID)) return;
@@ -29,16 +29,25 @@
     document.head.appendChild(STYLE);
   };
 
+  const createToggleStyle = () => {
+    const ts = document.createElement('link')
+
+    ts.id = 'shopee-darkmode-toggle-by-kiran'
+    ts.href = 'https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark-toggle-style.css'
+    
+    document.head.appendChild(ts)
+  }
+
   const createToggle = () => {
-    let button = document.getElementById(TOGGLE_ID);
-    if (button) return button;
+    TOGGLE = document.getElementById(TOGGLE_ID);
+    if (TOGGLE) return TOGGLE;
 
-    button = document.createElement("button");
-    button.id = TOGGLE_ID;
-    button.type = "button";
-    button.setAttribute("aria-label", "Toggle Shopee dark mode");
+    TOGGLE = document.createElement("button");
+    TOGGLE.id = TOGGLE_ID;
+    TOGGLE.type = "button";
+    TOGGLE.setAttribute("aria-label", "Toggle Shopee dark mode");
 
-    button.innerHTML = `
+    TOGGLE.innerHTML = `
       <span class="sd-icon">🌙</span>
       <span class="sd-state">
         <span class="sd-label">Dark Mode</span>
@@ -46,23 +55,22 @@
       </span>
     `;
 
-    button.addEventListener("click", () => {
+    TOGGLE.addEventListener("click", () => {
       const exists = document.getElementById(STYLE_ID)
       exists
       ? exists.remove()
       : document.head.appendChild(STYLE) 
     });
 
-    document.body.appendChild(button);
-    return button;
+    document.body.appendChild(TOGGLE);
+    return TOGGLE;
   };
 
   const init = async () => {
     try {
       await loadCss();
       createToggle();
-
-      const saved = localStorage.getItem(STORAGE_KEY);
+      createToggleStyle();
 
       console.log(
         `%c Shopee Dark Mode v${VERSION} `,
