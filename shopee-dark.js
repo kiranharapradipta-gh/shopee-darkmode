@@ -6,6 +6,8 @@
   const TOGGLE_ID = "shopee-dark-toggle";
   const STORAGE_KEY = "shopee-darkmode-enabled";
 
+  let STYLE
+
   const loadCss = async () => {
     if (document.getElementById(STYLE_ID)) return;
 
@@ -21,28 +23,10 @@
 
     console.log('css', css)
 
-    const style = document.createElement("style");
-    style.id = STYLE_ID;
-    style.textContent = css;
-    document.head.appendChild(style);
-  };
-
-  const setEnabled = (enabled) => {
-    document.documentElement.toggleAttribute("data-shopee-dark", enabled);
-    if (enabled) {
-      document.documentElement.setAttribute("data-shopee-dark", "1");
-    }
-
-    localStorage.setItem(STORAGE_KEY, enabled ? "1" : "0");
-
-    const button = document.getElementById(TOGGLE_ID);
-    if (!button) return;
-
-    button.querySelector(".sd-label").textContent =
-      enabled ? "Dark Mode" : "Light Mode";
-
-    button.querySelector(".sd-dot").title =
-      enabled ? "Dark mode aktif" : "Dark mode nonaktif";
+    STYLE = document.createElement("style");
+    STYLE.id = STYLE_ID;
+    STYLE.textContent = css;
+    document.head.appendChild(STYLE);
   };
 
   const createToggle = () => {
@@ -63,10 +47,10 @@
     `;
 
     button.addEventListener("click", () => {
-      const enabled =
-        document.documentElement.getAttribute("data-shopee-dark") === "1";
-
-      setEnabled(!enabled);
+      const exists = document.getElementById(STYLE_ID)
+      exists
+      ? exists.remove()
+      : document.head.appendChild(STYLE) 
     });
 
     document.body.appendChild(button);
@@ -79,9 +63,6 @@
       createToggle();
 
       const saved = localStorage.getItem(STORAGE_KEY);
-
-      // Default ON the first time.
-      setEnabled(saved === null ? true : saved === "1");
 
       console.log(
         `%c Shopee Dark Mode v${VERSION} `,
