@@ -398,3 +398,96 @@ hr {
 .P4GDsV:hover {
   background-color: #202023 !important;
 }
+
+/* =========================================================
+   SHOPEE DARK MODE - NEW WHITE ELEMENTS
+   ========================================================= */
+
+/* White surfaces */
+.BlBXvx.pAV1IX,
+.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I,
+.pUdyxe {
+  background-color: #171719 !important;
+  background: #171719 !important;
+  color: #f1f1f2 !important;
+}
+
+
+/* Buttons */
+.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I {
+  border-color: #303034 !important;
+  color: #dcdce0 !important;
+}
+
+.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I:hover {
+  background-color: #242428 !important;
+  color: #ffffff !important;
+}
+
+
+/* nOjGnB - dark card + dark border */
+.nOjGnB {
+  background-color: #1d1d20 !important;
+  background: #1d1d20 !important;
+
+  border-color: #303034 !important;
+  color: #f1f1f2 !important;
+
+  box-shadow: none !important;
+}
+
+
+/* nOjGnB nested borders */
+.nOjGnB *,
+.nOjGnB::before,
+.nOjGnB::after {
+  border-color: #303034 !important;
+}
+
+
+/* If nOjGnB has white-ish outline/shadow */
+.nOjGnB {
+  outline-color: #303034 !important;
+  box-shadow: 0 0 0 1px #303034 !important;
+}
+
+
+/* Keep text readable */
+.BlBXvx.pAV1IX *,
+.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I *,
+.pUdyxe *,
+.nOjGnB * {
+  color: inherit !important;
+}
+
+/* Dark Mode Surface System */
+
+body {
+  background: #0f0f10 !important;
+}
+
+.BlBXvx.pAV1IX,
+.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I,
+.pUdyxe {
+  background: #171719 !important;
+}
+
+.nOjGnB {
+  background: #1d1d20 !important;
+  border-color: #303034 !important;
+}
+
+input,
+textarea,
+select {
+  background: #222225 !important;
+  border-color: #38383d !important;
+}
+
+[role="dialog"],
+[role="menu"],
+[class*="dropdown"],
+[class*="popover"] {
+  background: #1d1d20 !important;
+  border-color: #303034 !important;
+}
