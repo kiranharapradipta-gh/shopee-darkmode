@@ -1,493 +1,120 @@
-/* =========================================================
-   SHOPEE DARK MODE
-   ========================================================= */
-
-html {
-  background: #0f0f10 !important;
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div.header-with-search__search-section > form > div > div,
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div.header-with-search__search-section > form > div > div > input,
+#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2) > div > div > div > div.Yd9qk2,
+#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2) > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2) > div > div > div > div > a > div,
+#main > div > div.t5pFIU > div > div > div > div > div:nth-child(2),
+#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__section-list > div > div > div.official-shop-brand-list__section-content > div > a > div.G3N4MK.full-brand-list-item__cover-image-wrapper > div,
+#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__alphabet-bar-wrapper > div,
+#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__head > ul,
+#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__head > div,
+#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__alphabet-bar-wrapper,
+#main > div > div.t5pFIU > div > div > div > div > div > div.official-shop-brand-list__section-list > div,
+#main > div > div.t5pFIU > div > div > div > div > div.container.cKV3cM > div.u0v0QW > section > fieldset > div.shopee-sort-by-options > section:nth-child(2) > div > button,
+#main > div > div.t5pFIU > div > div > div > div > div.container.cKV3cM > div.u0v0QW > section > fieldset > div.shopee-sort-by-options > section.shopee-sort-by-options__option-group > button,
+#main > div > div.t5pFIU > div > div > div > div > div.container.cKV3cM > div.u0v0QW > section > ul > li > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between, #main > div > div.t5pFIU > div > div > div > div > div.container.AMBLCZ > div > div.ofs-carousel__items > div > div.image-carousel__item-list-wrapper > ul > li > div > div:nth-child(1) > a > div > div,
+#main > div > div.t5pFIU > div > div > div > div > div.container.AMBLCZ > div > div.ofs-carousel__items > div > div.image-carousel__item-list-wrapper > ul > li > div > div > a > div > div,
+#main > div > div.t5pFIU > div > div > div > div > div.container.AMBLCZ > div > div.ofs-carousel__header,
+#shopee-mini-chat-embedded > div > div,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.MJ6lWTAl4K > div.shopee-react-input.u9tzsXCLU7 > div,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.MJ6lWTAl4K,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.C8Jzw7jkTU > div,
+#shopee-mini-chat-embedded > div > div.Z8RjJZsXy1 > div.QME5jeLIDy > div.gmoSCTmKOF > div > div,
+#shopee-mini-chat-embedded > div > div.KcnW0EWoNR,
+#main > div > div.t5pFIU > div > div > div > div:nth-child(4) > main > section:nth-child(7) > section > div > div.bbBzgE,
+#main > div > div.t5pFIU > div > div > div > div:nth-child(5) > div > div > div.L6zW27.row > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#main > div > div.t5pFIU > div > div > div > div:nth-child(4) > section,
+#main > div > div.t5pFIU > div > div > div > div:nth-child(4) > main > section,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > section > div,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.xFpWu9,
+#main > div > div.t5pFIU > div > div > div > div.container > main > section > div.oZlfIk,
+#main > div > div.t5pFIU > div > div > div > div.container > main > div,
+#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div > input,
+#main > div > div.t5pFIU > div > div > div > section > div > div > div.cart-page-searchbar > form > div > div,
+#main > div > div.t5pFIU > div > div > div > section,
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form,
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div,
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input,
+#main > div > div.t5pFIU > div > div > div > div.ppnvLr,
+#HomePageSquareBannerSection > div,
+#main > div > div.t5pFIU > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__header,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.home-category-list > div > div.shopee-header-section__content > div > div.image-carousel__item-list-wrapper > ul > li > a,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div.XOnodO,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div.image-carousel > div.image-carousel__item-list-wrapper > ul > li > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__header,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div > div > div > div.shopee-header-section__content > div > div > ul > li > a,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > nav > ul > li,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div.Alb1Rz > a,
+#main > div > div.t5pFIU > footer,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div._87kPP,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div.URvGxz,
+#main > div > div.t5pFIU > div > div > div > div > div.bRu02W.row > div > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#shopee-searchbar-listbox > a,
+#main > div > div.t5pFIU > div > div > div > div > div > div.eZXujS > div > div > div.shopee-header-section__content > div > div.K4tJP4,
+#main > div > div.t5pFIU > div > div > div > div > div > div.eZXujS > div > div > div.shopee-header-section__content > div > ul > li > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#main > div > div.t5pFIU > div > div > div > div > div > div.eZXujS > section > ul > li > div > div > div > a.contents > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right,
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form,
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form > div,
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form > div > div > input,
+#sll2-pdp-product-shop > section,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section > h2,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div.product-detail.page-product__detail > section > div > div > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section > div > div,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(4) > div.L6zW27.row > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(3) > div > div > div.image-carousel.yNT8k4 > div.image-carousel__item-list-wrapper > ul > li > div > div > div > div > a > div > div.p-2.flex-1.flex.flex-col.justify-between,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(4) > div.v-center > a,
+#main > div > div.t5pFIU > footer > div.bE7OGq > div,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section:nth-child(1) > div > div > div.product-rating-overview,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--left > div:nth-child(2) > div > div > div.CTDZTy.zfuffj > div > div.stardust-tabs-panels > section:nth-child(1) > div > div > div.product-rating-overview > div.product-rating-overview__filters > div,
+#modal > div.AbAiU9 > div.UCGJYT > div > div.o_Jpw2,
+#modal > div.AbAiU9 > div.UCGJYT > div > div.SnjdX2,
+#sll2-normal-pdp-main > div > div > div > div.container > div.QqPWsG > div > div.page-product__content--right > section,
+#main > div > div.t5pFIU > div > div > div > div > div > div.shop-page > div > div.shop-page__info,
+#main > div > div.t5pFIU > div > div > div > div > div > div.shop-page > div > div.shop-page__info > div > div.section-seller-overview-horizontal__seller-info-list,
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div.shopee-searchbar-selector > button
+{
+  background: rgb(40 37 42);
 }
-
-body {
-  background: #0f0f10 !important;
-  color: #f1f1f2 !important;
+#shopee-searchbar-listbox > a:hover
+{
+  background: rgb(45, 42, 47);
 }
-
-/* =========================================================
-   GLOBAL WHITE SURFACES
-   ========================================================= */
-
-body *,
-body *::before,
-body *::after {
-  border-color: #303034;
+#HomePageSquareBannerSection > div > a > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div.section-recommend-products-wrapper > div > div > div > div.stardust-tabs-panels > section > div > div > div > div > div > a > div > div > div,
+#main > div > div.t5pFIU > div > div > div > div.ZK0CJb > div > div > div.section-below-the-fold > div:nth-child(4) > div > div > div.shopee-header-section__content > div > div > ul > li > a > div.ZYdV9e,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm > div.flex.justify-center.items-center > div.flex.items-center.ipd6HQ > button > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.C21rQm > div.flex.justify-center.items-center > div.flex.items-center.hUt8dC > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.AyT2xV > div > div > div > section > div > div > button,
+#pc-drawer-id-1 > div > div,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > button > div.FllsTu.JXtSdn.bv0Mz_
+{
+  color: black;
 }
-
-/* Common white backgrounds */
-[style*="background-color: rgb(255, 255, 255)"],
-[style*="background-color: #fff"],
-[style*="background-color: #ffffff"],
-[style*="background: rgb(255, 255, 255)"],
-[style*="background: #fff"],
-[style*="background: #ffffff"] {
-  background-color: #171719 !important;
+#main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input
+{
+  color: #555;
 }
-
-
-/* =========================================================
-   PAGE / MAIN CONTAINERS
-   ========================================================= */
-
-#main,
-main,
-[class*="page"],
-[class*="container"],
-[class*="section"],
-[class*="content"] {
-  background-color: #0f0f10 !important;
+#main > div > div.t5pFIU > header > div:nth-child(2) > div > div > div > div.ofs-header__right > form > div > div > input::placeholder, #main > div > div.t5pFIU > header > div.container-wrapper.header-with-search-wrapper > div > div.header-with-search__search-section > form > div > div > input::placeholder {
+  color: #555;
+  background: rgb(45, 42, 47);
 }
-
-
-/* =========================================================
-   HEADER
-   ========================================================= */
-
-header,
-[class*="header"],
-[class*="navbar"] {
-  background-color: #171719 !important;
-  color: #f1f1f2 !important;
-}
-
-
-/* =========================================================
-   SEARCH BAR
-   ========================================================= */
-
-input,
-textarea,
-select,
-[role="textbox"] {
-  background-color: #222225 !important;
-  color: #f1f1f2 !important;
-  border-color: #3a3a3f !important;
-}
-
-input::placeholder,
-textarea::placeholder {
-  color: #85858c !important;
-}
-
-input:focus,
-textarea:focus,
-select:focus {
-  background-color: #242428 !important;
-  border-color: #ee4d2d !important;
-  color: #fff !important;
-}
-
-
-/* =========================================================
-   SEARCH DROPDOWN / HISTORY
-   ========================================================= */
-
-[class*="search"][class*="dropdown"],
-[class*="search"][class*="history"],
-[class*="search"][class*="result"],
-[class*="search"][class*="suggest"],
-[class*="autocomplete"] {
-  background-color: #1d1d20 !important;
-  color: #f1f1f2 !important;
-  border-color: #303034 !important;
-}
-
-
-/* =========================================================
-   CARDS
-   ========================================================= */
-
-[class*="card"],
-[class*="Card"],
-[class*="product"],
-[class*="Product"] {
-  color: #f1f1f2 !important;
-}
-
-
-/* Product cards specifically */
-[class*="product-card"],
-[class*="ProductCard"] {
-  background-color: #1d1d20 !important;
-  border-color: #303034 !important;
-}
-
-
-/* =========================================================
-   PRODUCT GRID
-   ========================================================= */
-
-[class*="item-card"],
-[class*="ItemCard"],
-[class*="product-item"],
-[class*="ProductItem"] {
-  background-color: #1d1d20 !important;
-  color: #f1f1f2 !important;
-}
-
-[class*="item-card"]:hover,
-[class*="ItemCard"]:hover,
-[class*="product-item"]:hover,
-[class*="ProductItem"]:hover {
-  background-color: #242428 !important;
-}
-
-
-/* =========================================================
-   FLASH SALE
-   ========================================================= */
-
-[class*="flash-sale"],
-[class*="FlashSale"] {
-  background-color: #171719 !important;
-  color: #f1f1f2 !important;
-}
-
-
-/* =========================================================
-   CATEGORY
-   ========================================================= */
-
-[class*="category"],
-[class*="Category"] {
-  color: #f1f1f2 !important;
-}
-
-[class*="category"] a,
-[class*="Category"] a {
-  color: #d4d4d8 !important;
-}
-
-
-/* =========================================================
-   SHOPEE LIVE
-   ========================================================= */
-
-[class*="live"],
-[class*="Live"] {
-  color: #f1f1f2 !important;
-}
-
-
-/* =========================================================
-   DROPDOWN / POPOVER / MENU
-   ========================================================= */
-
-[role="menu"],
-[role="listbox"],
-[role="dialog"],
-[class*="dropdown"],
-[class*="Dropdown"],
-[class*="popover"],
-[class*="Popover"],
-[class*="popup"],
-[class*="Popup"],
-[class*="modal"],
-[class*="Modal"] {
-  background-color: #1d1d20 !important;
-  color: #f1f1f2 !important;
-  border-color: #303034 !important;
-}
-
-
-/* =========================================================
-   BUTTONS
-   ========================================================= */
-
-button {
-  color: #f1f1f2 !important;
-}
-
-button:not([class*="primary"]):not([class*="Primary"]) {
-  background-color: #242428 !important;
-  border-color: #38383d !important;
-}
-
-button:not([class*="primary"]):not([class*="Primary"]):hover {
-  background-color: #2c2c31 !important;
-}
-
-
-/* =========================================================
-   LINKS / TEXT
-   ========================================================= */
-
-a {
-  color: #dedee2 !important;
-}
-
-a:hover {
-  color: #ee4d2d !important;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #f5f5f6 !important;
-}
-
-p,
-span,
-label {
-  color: inherit;
-}
-
-
-/* =========================================================
-   SECONDARY TEXT
-   ========================================================= */
-
-[class*="description"],
-[class*="subtitle"],
-[class*="secondary"],
-[class*="muted"] {
-  color: #a5a5ab !important;
-}
-
-
-/* =========================================================
-   TABS / NAVIGATION
-   ========================================================= */
-
-[role="tablist"],
-[role="tab"] {
-  color: #c7c7cc !important;
-}
-
-[role="tab"][aria-selected="true"] {
-  color: #ee4d2d !important;
-}
-
-
-/* =========================================================
-   TABLE / LIST
-   ========================================================= */
-
-table,
-thead,
-tbody,
-tr,
-td,
-th {
-  background-color: #171719 !important;
-  color: #f1f1f2 !important;
-  border-color: #303034 !important;
-}
-
-
-/* =========================================================
-   CHECKBOX / RADIO
-   ========================================================= */
-
-input[type="checkbox"],
-input[type="radio"] {
-  accent-color: #ee4d2d;
-}
-
-
-/* =========================================================
-   DIVIDERS
-   ========================================================= */
-
-hr {
-  border-color: #303034 !important;
-}
-
-
-/* =========================================================
-   SCROLLBAR
-   ========================================================= */
-
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: #0f0f10 !important;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #3a3a3f !important;
-  border-radius: 999px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #4a4a50 !important;
-}
-
-
-/* =========================================================
-   SHOPEE-SPECIFIC CLASSES
-   ========================================================= */
-
-.shopee-header-section__header {
-  background-color: #171719 !important;
-  color: #f1f1f2 !important;
-}
-
-.deUGEM {
-  background-color: #1d1d20 !important;
-  color: #f1f1f2 !important;
-}
-
-.p-2.flex-1.flex.flex-col.justify-between {
-  background-color: #1d1d20 !important;
-  color: #f1f1f2 !important;
-}
-
-/* =========================================================
-   AGGRESSIVE WHITE SURFACE OVERRIDE
-   ========================================================= */
-
-[style*="background: white"],
-[style*="background:white"],
-[style*="background: #fff"],
-[style*="background:#fff"],
-[style*="background: rgb(255, 255, 255)"],
-[style*="background-color: white"],
-[style*="background-color:white"],
-[style*="background-color: #fff"],
-[style*="background-color:#fff"],
-[style*="background-color: rgb(255, 255, 255)"] {
-  background: #171719 !important;
-  background-color: #171719 !important;
-}
-
-
-/* Explicit Shopee surfaces */
-.stardust-tabs-header,
-.stardust-tabs-header__tab,
-.p-2.flex-1.flex.flex-col.justify-between,
-.nOjGnB,
-.XOnodO,
-.YncY32,
-.MaSdRz,
-.P4GDsV {
-  background-color: #171719 !important;
-}
-
-
-/* Cards */
-.nOjGnB,
-.XOnodO,
-.YncY32,
-.MaSdRz,
-.P4GDsV,
-.p-2.flex-1.flex.flex-col.justify-between {
-  border-color: #303034 !important;
-  color: #f1f1f2 !important;
-}
-
-
-/* Hover */
-.nOjGnB:hover,
-.XOnodO:hover,
-.YncY32:hover,
-.MaSdRz:hover,
-.P4GDsV:hover {
-  background-color: #202023 !important;
-}
-
-/* =========================================================
-   SHOPEE DARK MODE - NEW WHITE ELEMENTS
-   ========================================================= */
-
-/* White surfaces */
-.BlBXvx.pAV1IX,
-.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I,
-.pUdyxe {
-  background-color: #171719 !important;
-  background: #171719 !important;
-  color: #f1f1f2 !important;
-}
-
-
-/* Buttons */
-.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I {
-  border-color: #303034 !important;
-  color: #dcdce0 !important;
-}
-
-.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I:hover {
-  background-color: #242428 !important;
-  color: #ffffff !important;
-}
-
-
-/* nOjGnB - dark card + dark border */
-.nOjGnB {
-  background-color: #1d1d20 !important;
-  background: #1d1d20 !important;
-
-  border-color: #303034 !important;
-  color: #f1f1f2 !important;
-
-  box-shadow: none !important;
-}
-
-
-/* nOjGnB nested borders */
-.nOjGnB *,
-.nOjGnB::before,
-.nOjGnB::after {
-  border-color: #303034 !important;
-}
-
-
-/* If nOjGnB has white-ish outline/shadow */
-.nOjGnB {
-  outline-color: #303034 !important;
-  box-shadow: 0 0 0 1px #303034 !important;
-}
-
-
-/* Keep text readable */
-.BlBXvx.pAV1IX *,
-.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I *,
-.pUdyxe *,
-.nOjGnB * {
-  color: inherit !important;
-}
-
-/* Dark Mode Surface System */
-
-body {
-  background: #0f0f10 !important;
-}
-
-.BlBXvx.pAV1IX,
-.btn.btn-light.btn--m.btn--inline.btn-light--link.aI5E5I,
-.pUdyxe {
-  background: #171719 !important;
-}
-
-.nOjGnB {
-  background: #1d1d20 !important;
-  border-color: #303034 !important;
-}
-
-input,
-textarea,
-select {
-  background: #222225 !important;
-  border-color: #38383d !important;
-}
-
-[role="dialog"],
-[role="menu"],
-[class*="dropdown"],
-[class*="popover"] {
-  background: #1d1d20 !important;
-  border-color: #303034 !important;
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > button > div.FllsTu,
+#sll2-normal-pdp-main > div > div > div > div.container > section > section.flex.flex-auto.SQguX_ > div > div.flex.uLEz5u > div > div.Ocv3B8 > span
+{
+  background: yellow;
 }

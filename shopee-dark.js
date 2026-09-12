@@ -1,9 +1,8 @@
 (() => {
   const VERSION = "1.0.0";
-  const CSS_URL =
-    "https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark.css";
+  const CSS_URL = "https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark.css";
 
-  const STYLE_ID = "shopee-darkmode-css";
+  const STYLE_ID = "shopee-darkmode-by-kiran";
   const TOGGLE_ID = "shopee-dark-toggle";
   const STORAGE_KEY = "shopee-darkmode-enabled";
 
@@ -19,6 +18,9 @@
     }
 
     const css = await response.text();
+
+    console.log('css', css)
+
     const style = document.createElement("style");
     style.id = STYLE_ID;
     style.textContent = css;
