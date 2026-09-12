@@ -34,7 +34,7 @@
 
     ts.id = 'shopee-darkmode-toggle-by-kiran'
     ts.href = 'https://raw.githubusercontent.com/kiranharapradipta-gh/shopee-darkmode/main/shopee-dark-toggle-style.css'
-    
+
     document.head.appendChild(ts)
   }
 
@@ -69,8 +69,8 @@
   const init = async () => {
     try {
       await loadCss();
-      createToggle();
       createToggleStyle();
+      createToggle();
 
       console.log(
         `%c Shopee Dark Mode v${VERSION} `,
