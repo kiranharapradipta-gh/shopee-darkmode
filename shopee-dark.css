@@ -345,3 +345,56 @@ hr {
   background-color: #1d1d20 !important;
   color: #f1f1f2 !important;
 }
+
+/* =========================================================
+   AGGRESSIVE WHITE SURFACE OVERRIDE
+   ========================================================= */
+
+[style*="background: white"],
+[style*="background:white"],
+[style*="background: #fff"],
+[style*="background:#fff"],
+[style*="background: rgb(255, 255, 255)"],
+[style*="background-color: white"],
+[style*="background-color:white"],
+[style*="background-color: #fff"],
+[style*="background-color:#fff"],
+[style*="background-color: rgb(255, 255, 255)"] {
+  background: #171719 !important;
+  background-color: #171719 !important;
+}
+
+
+/* Explicit Shopee surfaces */
+.stardust-tabs-header,
+.stardust-tabs-header__tab,
+.p-2.flex-1.flex.flex-col.justify-between,
+.nOjGnB,
+.XOnodO,
+.YncY32,
+.MaSdRz,
+.P4GDsV {
+  background-color: #171719 !important;
+}
+
+
+/* Cards */
+.nOjGnB,
+.XOnodO,
+.YncY32,
+.MaSdRz,
+.P4GDsV,
+.p-2.flex-1.flex.flex-col.justify-between {
+  border-color: #303034 !important;
+  color: #f1f1f2 !important;
+}
+
+
+/* Hover */
+.nOjGnB:hover,
+.XOnodO:hover,
+.YncY32:hover,
+.MaSdRz:hover,
+.P4GDsV:hover {
+  background-color: #202023 !important;
+}
